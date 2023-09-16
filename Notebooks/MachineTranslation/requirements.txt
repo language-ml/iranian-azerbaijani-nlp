@@ -1,0 +1,23 @@
+future
+pillow 
+numpy>=1.19.5
+setuptools>=41.0.0
+torch>=1.12.0
+# tensorboard>=1.15
+protobuf>=3.19.4,<3.21
+sacrebleu>=2.0.0
+sentencepiece
+subword-nmt
+matplotlib
+seaborn
+pyyaml>=5.1
+six>=1.12
+wrapt>=1.11.1
+pylint
+yapf
+flake8
+pytest
+datasets
+packaging
+arabic_reshaper
+python-bidi
