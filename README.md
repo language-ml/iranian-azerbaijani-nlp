@@ -1,1 +1,7 @@
-# AzeriPipeline
+# The Language Model, Resources, and Computational Pipelines for the Under-Resourced Iranian Azerbaijani
+
+## Abstract
+Iranian Azerbaijani is a dialect of the Azerbaijani language spoken by more than 16% of the population in Iran (>14 million). Unfortunately, a lack of computational resources is one of the factors that puts this language and its rich culture at risk of extinction. This work aims to create fundamental natural language processing (NLP) resources and pipelines for the processing and analysis of Iranian Azerbaijani introducing standard datasets and starter models for various NLP tasks such as language modeling, text classification, part-of-speech (POS) tagging, and machine translation. The proposed resources have been curated and preprocessed to facilitate the development of NLP models for Iranian Azerbaijani and provide a strong baseline for further research and development. This study is an example of bridging the gap in NLP for low-resource languages and promoting the advancement of language technologies in underrepresented languages. To the best of our knowledge, for the first time, this paper presents major infrastructures for the processing and analysis of Iranian Azerbaijani, with the ultimate goal of improving communication and information access for millions of individuals. 
+
+## Data Availability
+We have provided sample data for each task; however, if you require access to the complete dataset, please do not hesitate to contact us via email at one of the following addresses: a@gmail.com, b@gmail.com, or c@gmail.com. We will be more than happy to provide you with the data you need.
