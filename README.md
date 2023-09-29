@@ -7,7 +7,7 @@ Iranian Azerbaijani is a dialect of the Azerbaijani language spoken by more than
 We have provided sample data for each task; however, if you require access to the complete dataset, please do not hesitate to contact us via email at one of the following addresses: inquiries@language.ml, marziehnouri1999@gmail.com, or mahsa.ama1391@gmail.com. We will be more than happy to provide you with the data you need.
 
 ## Models
-Our models can be found on our [Hugging Face repository]([https://huggingface.co/language-ml-lab/iranian-azerbaijani-nlp]).
+Our models can be found on our [Hugging Face repository](https://huggingface.co/language-ml-lab/iranian-azerbaijani-nlp).
 
 ## Model Output Examples
 
